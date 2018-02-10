@@ -6,3 +6,5 @@ this is my lates attempt at git hub
 
 wahoo!
 did anything happen?
+
+why is thi not changing on my desktop?
